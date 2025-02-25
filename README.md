@@ -1,7 +1,7 @@
 # **Flipkart Sales Analysis with Power BI**
 
 
-## **Project Objective:**
+## **Project Objective**
 The objective of this project is to analyze Flipkart sales data and gain insights into various aspects such as sales performance, seller activity, and product popularity. The data visualization and analysis are performed using Power BI, leveraging measures and DAX formulas to create interactive and informative dashboards.
 
 
